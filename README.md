@@ -6,7 +6,7 @@ A webapp written in Javascript using ExpressJS and React that lets you convert S
 
 ### Clone the Repository
 
-`git clone https://github.com/varun-balani/urbansounds8k-classifier`
+`git clone https://github.com/varun-balani/PlaylistBridge`
 
 ### Client
 
